@@ -1,0 +1,54 @@
+1.Describir el efecto que tienen las redes en nuestra vida cotidiana.
+  las redes tienen un efecto muy importante en la vida cotidiana ya que nos 
+  permite la comunicación, un elemento esencial en la sociedad humana esto nos 
+  permitió pasar de interacciones cara a cara a una forma de comunicación remota
+  sin importar la ubicación geográfica o fronteras, además cada vez evoluciona más
+  y más estas formas de comunicarnos.
+
+2.Listar las actividades cotidianas que realiza usted utilizando internet
+  Jugar videojuegos.
+  Llamadas a larga distancia con diferentes programas (discord o meet).
+  Búsquedas en google
+  Escuchar música en spotify.
+  Mirar memes en Facebook
+  Programación en la nube con google colab
+  Cursos online de programación
+  Compras online
+
+3.Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+R/Videollamadas, llamadas por telefono, cartas, cara a cara
+
+4.Describir los factores que afectan la calidad de las comunicaciones.
+R/ Factores internos:
+-Tamaño del mensaje
+-La complejidad del mensaje
+-Importancia del mensaje
+Factores externos:
+-Calidad de la ruta entre el emisor y el receptor
+-Cantidad de veces que el mensaje cambia de forma 
+-Cantidad de veces que el mensaje tiene que ser redireccionado o redirigido
+-Cantidad de mensajes adicionales que se transmiten simultaneamente en la red de comunicación
+-Cantidad de tiempo asignado para una comunicación exitosa
+
+5.Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+R/ 
+Mensajes: Los mensajes sin importar el formato(Texto,video,voz,datos informaticos) son convertidos a bits para que se puedan transmitir en la red.
+Dispositivos: elementos fisicos que pueden conectarse a la red para participar en servicios de red.
+Medio: Para enviar el mensaje instantáneo al destino, la computadora debe estar conectada a una red local inalámbrica
+o con cables. Las redes locales pueden instalarse en casas o empresas, donde permiten a computadoras y otros
+dispositivos compartir información y utilizar una conexión común a Internet.
+Servicios: Los servicios de red son programas de computación que respaldan la red humana. Distribuidos en toda la red,
+estos servicios facilitan las herramientas de comunicación en línea como e-mails, foros de discusión/boletines, salas de
+chat y mensajería instantánea.
+Reglas:especifican la manera en que se envían los mensajes, cómo se direccionan a través de la red
+y cómo se interpretan en los dispositivos de destino.
+
+8.Investigar qué son las redes orientadas y no orientadas a la conexión
+R/ Orientado a conexión implica el uso de un camino específico que se 
+establezca durante una conexión. El manejo de datos orientados a conexión 
+implica el pasar datos a través de una conexión permanentemente establecida.
+Las redes no orientadas a conexion no se predetermina el camino a seguir por
+ los paquetes y no se garantiza el secuenciamiento de paquetes, la tasa de 
+transferencia de datos ni los recursos de red. Cada paquete es transmitido 
+independientemente por el sistema de origen y manejado independientemente 
+por los dispositivos intermedios de la red.

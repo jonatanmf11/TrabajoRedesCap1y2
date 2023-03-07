@@ -1,0 +1,23 @@
+1.Describir la estructura de una red, incluidos los dispositivos, medios y
+servicios necesarios para lograr comunicaciones exitosas.
+2.Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+R/
+RED:Sistemas que se forman por enlaces
+LAN:Es una red individual que generalmente cubre una única área geográfica y proporciona servicios y aplicaciones a personas
+dentro de una estructura organizacional común. Generalmente está administrada por una organización única.
+WAN: redes que conectan las LAN en ubicaciones separadas geográficamente, las WAN utilizan dispositivos de red diseñados específicamente para realizar las interconexiones entre las LAN.
+Internetwork: Una malla global de redes interconectadas.
+Internet: interconexión de redes que pertenecen a los Proveedores de servicios de Internet (ISP).
+3.¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+R/ Internetwork es una malla global de redes de cualquier tipo interconectadas entre si. Internet es un tipo de internetwork conformada por redes que pertenecen a los ISP.
+4.Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
+interfaz de red.
+R/ 
+NIC:Proporciona la conexión física con la red en la computadora personal u otro dispositivo host. El medio que conecta la computadora personal con el dispositivo de red se inserta
+directamente en la NIC.
+Puerto físico: Conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo
+de red.
+Interfaz: puertos especializados de un dispositivo de internetworking que se conecta con redes individuales. Puesto que los routers se utilizan para interconectar redes, los puertos de un router se conocen como interfaces de red.
+5.¿Por qué se dice que un protocolo es independiente de la tecnología?
+R/ Ya que los protocolos son estandares definidos la tecnologia se ajustan a los protocolos, los protocolos no se adaptan a las tecnologias.
