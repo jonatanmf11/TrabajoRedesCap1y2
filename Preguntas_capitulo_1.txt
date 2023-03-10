@@ -43,6 +43,53 @@ chat y mensajería instantánea.
 Reglas:especifican la manera en que se envían los mensajes, cómo se direccionan a través de la red
 y cómo se interpretan en los dispositivos de destino.
 
+6.Responda brevemente
+¿Qué son los datos? 
+Los datos son información recolectada con el fin de ser utilizada posteriormente y pueden ser
+organizados de forma estructurada o no estructurada según su análisis correspondiente.
+
+¿Qué es una red de datos? 
+Se entiende por red de datos a una infraestructura de comunicaciones que posibilita la transferencia
+de datos entre dispositivos que están conectados entre sí. Estas redes se pueden implementar
+mediante conexiones cableadas de uso local o a través de conexiones inalámbricas. Para su correcto 
+funcionamiento, se hacen uso de tecnologías de red como switches, routers, firewalls y servidores.
+
+¿Qué es una red convergente?
+Se considera una red convergente a aquella que combina múltiples redes independientes en una misma 
+infraestructura de comunicación. Esto permite que la voz, el vídeo y los datos se transmitan a través 
+de una única red compartida, lo que aumenta la eficiencia en el uso y la compartición de los dispositivos 
+de red.
+
+7.Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad 
+del servicio y seguridad. Mostrar sus respectivos ejemplos.
+
+Tolerante a fallas: Una red debe ser tolerante a fallas, ya que debe estar disponible para millones de 
+usuarios a los cuales distribuye internet, esto permite que la red se recupere rapidamente en caso de que
+se produsca una falla. un ejemplo de esto es una compañia de telefonia movil que cuenta con millones de 
+usuarios,Si una torre de transmisión, router o enlace falla, la red puede redirigir los datos y el tráfico
+a través de rutas alternativas, limitando así el impacto de la falla y asegurando que los usuarios puedan
+continuar usando sus servicios móviles sin interrupciones
+
+Escalabilidad: Una red escalable permite extenderse en caso de ser necesarios para admitir nuevos usuarios 
+y al aplicar este proceso no debe presentar ningun inconveniente con los usuarios a quienes se les presta 
+el servicio actualmente, gracias a un diseño jerarquico de capas permite a los usuarios y proveedores 
+que se les ofrecen el servicio ingresar sin alterar la normalidad de la red. un ejemplo de esto son Las
+redes sociales, como Facebook, Instagram y Twitter, son escalables porque pueden manejar millones de 
+usuarios y sus interacciones diarias sin interrupciones en el servicio.
+
+Calidad del servicio: debido a que actualmente las espectativas prestadas por internet son cada vez mas
+avanzadas en tolerar fallos y escalabilidad desenboca en que las espectativas de los servicios prestados
+mediante la red sean igual de altos. Esta calidad se mide deacuerdo en la experiencia que prestan los
+servicios como presentacon de audio y video en persona. Un ejemplo de esto seria a a hora de realizar 
+reuniones visrtuales como en meet y en zoom entre mejor sea la calidad podremos deucir en cierto punto 
+la calidad de la red.
+
+Seguridad: Devido a la constante evolucion del internet y la gran informacion sensible que, cada vez 
+es manejada dentro de esta red es necesario que cuente con protocolos, herammients y procediientos que 
+permiten proteger dicha informacion privada. un ejemplo podría ser una red de una institución financiera 
+que utiliza tecnologías de encriptación y autenticación de transacciones para asegurar que las 
+transacciones de sus clientes sean seguras y confidenciales.
+
 8.Investigar qué son las redes orientadas y no orientadas a la conexión
 R/ Orientado a conexión implica el uso de un camino específico que se 
 establezca durante una conexión. El manejo de datos orientados a conexión 
@@ -52,3 +99,18 @@ Las redes no orientadas a conexion no se predetermina el camino a seguir por
 transferencia de datos ni los recursos de red. Cada paquete es transmitido 
 independientemente por el sistema de origen y manejado independientemente 
 por los dispositivos intermedios de la red.
+
+9. Describa que es la calidad del servicio y que se necesita para mantener una
+buena calidad de servicio para las aplicaciones que lo requieren.
+
+la calidad del servicio se refiere a la capacidad de una red para proporcionar 
+diferentes niveles de servicio a diferentes tipos de tráfico de datos, voz y video.
+Para mantener una buena calidad de servicio las aplicaciones se priorizan los tipos
+de paquetes de datos que deben enviarse a expensas de otros tipos de paquetes que 
+puedan retrasarse o descartarse.
+
+10. ¿Por qué importa la calidad del servicio en una red de datos?
+
+Es muy importante ya que los datos que se manejan dentro de esta red pueden ser de vital 
+importancia, ya sean peticiones de ayuda, maquinaria automatizada, donde si pierde la red
+decae en perdidas y otras situaciones de misma magnitud.
