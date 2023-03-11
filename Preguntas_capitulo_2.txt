@@ -27,7 +27,11 @@ R/Es una estructura de datos que se utiliza para transportar información a trav
 7.Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
-R/https://drive.google.com/file/d/1WFDbIQINDPIP8Y0gSFilqrOJM6qD7fqq/view?usp=sharing
+R/Los protocolos son un conjunto de reglas y convenciones que permiten que los dispositivos de red se comuniquen y transmitan información de manera efectiva. En una red de computadoras, los protocolos se utilizan para controlar la 
+forma en que los datos se transmiten entre dispositivos y cómo se gestionan los errores y la congestión.
+
+El proceso de encapsulamiento de datos implica el agregado de información de control adicional en los datos originales para permitir que se transmitan a través de la red. 
+https://drive.google.com/file/d/1WFDbIQINDPIP8Y0gSFilqrOJM6qD7fqq/view?usp=sharing
 R/Es una unidad de información utilizada por un protocolo de comunicación para transferir datos entre dispositivos de red.
 cuando dos dispositivos se comunican a través de una red, utilizan un protocolo de comunicación que define cómo los datos se intercambian entre ellos. 
 Las unidades de datos del protocolo son los bloques básicos de información que se transfieren entre los dispositivos de la red y que están definidos por 
