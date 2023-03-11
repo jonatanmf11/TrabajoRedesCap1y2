@@ -21,3 +21,49 @@ de red.
 Interfaz: puertos especializados de un dispositivo de internetworking que se conecta con redes individuales. Puesto que los routers se utilizan para interconectar redes, los puertos de un router se conocen como interfaces de red.
 5.¿Por qué se dice que un protocolo es independiente de la tecnología?
 R/ Ya que los protocolos son estandares definidos la tecnologia se ajustan a los protocolos, los protocolos no se adaptan a las tecnologias.
+6.Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
+R/Es una estructura de datos que se utiliza para transportar información a través de una red. Cada capa del modelo de referencia OSI o del modelo TCP/IP utiliza PDUs específicas para llevar a cabo sus funciones de comunicación.
+7.Explicar la función de los protocolos en las comunicaciones de redes y para
+qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
+adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+R/https://drive.google.com/file/d/1WFDbIQINDPIP8Y0gSFilqrOJM6qD7fqq/view?usp=sharing
+R/Es una unidad de información utilizada por un protocolo de comunicación para transferir datos entre dispositivos de red.
+cuando dos dispositivos se comunican a través de una red, utilizan un protocolo de comunicación que define cómo los datos se intercambian entre ellos. 
+Las unidades de datos del protocolo son los bloques básicos de información que se transfieren entre los dispositivos de la red y que están definidos por 
+el protocolo que se está utilizando.
+8.Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+R/la principal diferencia entre los modelos de protocolo y los modelos de referencia es que el primero se enfoca en definir los detalles específicos de cómo se realiza la comunicación entre dispositivos de red, mientras 
+que el segundo proporciona una estructura conceptual para describir cómo se lleva a cabo la comunicación, sin entrar en detalles específicos.
+9.Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+R/
+Modelo TCP/IP:
+
+Capa de acceso a la red: Esta capa se encarga de transmitir datos a través del medio físico de la red, como el cable de cobre, la fibra óptica o el aire.
+
+Capa de Internet: Esta capa se encarga de enrutar los paquetes de datos a través de la red de una fuente a un destino a través de direcciones IP únicas.
+
+Capa de transporte: Esta capa se encarga de la entrega de datos sin errores y en orden, mediante el uso de protocolos de transporte como TCP o UDP.
+
+Capa de aplicación: Esta capa se encarga de proporcionar servicios de red para aplicaciones de usuario, como el correo electrónico, el servicio web y el FTP.
+
+Modelo OSI:
+
+Capa física: Esta capa se encarga de transmitir datos a través del medio físico de la red, como el cable de cobre, la fibra óptica o el aire.
+
+Capa de enlace de datos: Esta capa se encarga de proporcionar un medio confiable y sin errores para la transferencia de datos a través de la red.
+
+Capa de red: Esta capa se encarga de enrutar los paquetes de datos a través de la red de una fuente a un destino a través de direcciones únicas.
+
+Capa de transporte: Esta capa se encarga de la entrega de datos sin errores y en orden, mediante el uso de protocolos de transporte como TCP o UDP.
+
+Capa de sesión: Esta capa se encarga de establecer, mantener y finalizar sesiones entre aplicaciones en diferentes dispositivos de la red.
+
+Capa de presentación: Esta capa se encarga de la representación de datos, como la conversión de un formato de datos a otro.
+
+Capa de aplicación: Esta capa se encarga de proporcionar servicios de red para aplicaciones de usuario, como el correo electrónico, el servicio web y el FTP.
+
+
+
+
+
